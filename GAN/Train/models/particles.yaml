@@ -1,0 +1,5 @@
+# put the paths to actual data here!
+#muon: '/hpcfs/juno/junogpu/fangwx/FastSim/data/data_all0.h5'
+muon: '/hpcfs/juno/junogpu/fangwx/FastSim/data/data_all_20190425.h5'
+# pion: 'data/piplus.hdf5'
+# gamma: 'data/gamma.hdf5'
